@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 922081fdd47b92d40abe2128cd9a24e3
+timeCreated: 1511273711
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sunT: {instanceID: 0}
+  - sunL: {instanceID: 0}
+  - postFX: {instanceID: 0}
+  - logo: {fileID: 2800000, guid: 02b1c30090aba844bbcab3980b0ec2c9, type: 3}
+  - gui: {fileID: 2800000, guid: 4bc1b16936325c7468e74942be1ca6ea, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176382
+  packageName: Swiss Army Spline
+  packageVersion: 1.1.0
+  assetPath: Assets/Swiss Army Spline/Demo Scene (Import Optional)/Scripts/SAS_DemoCameraController.cs
+  uploadId: 691433
